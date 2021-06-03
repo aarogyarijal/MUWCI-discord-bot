@@ -204,5 +204,5 @@ async def sd(ctx):
 #     members2 = channel2.members
 #     print(channel1, channel2)
 #     print(members1, members2)
-client.run('NzYwNTcyMTk1NjU4MjY4Njgy.X3OADg.XvgF1XvJqwHhg80hDbwle7gIGKs')
+client.run('xxxxxxxxxxxxx')
 
